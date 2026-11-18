@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/tarzanespa"><img src="https://img.shields.io/badge/GitHub-tarzanespa-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord-tarzan__019-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://github.com/tarzanespa"><img src="https://img.shields.io/github/followers/tarzanespa?label=Follow&style=social"></a>
 </p>
 
@@ -35,4 +36,3 @@
 <p align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/tarzanespa/tarzanespa/output/github-contribution-grid-snake.svg">
 </p>
-

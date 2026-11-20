@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/tarzanespa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=560&lines=C%23+%2B+.NET+%E2%80%94+apps+desktop+com+WinForms;TypeScript+%2B+Next.js+%E2%80%94+web+moderna;Python+%2B+YOLO+%E2%80%94+vis%C3%A3o+por+computador;Montagem+de+PCs+%E2%80%94+do+zero+ao+primeiro+boot+%F0%9F%96%A5%EF%B8%8F;Sempre+a+aprender+algo+novo+%F0%9F%A6%8D" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=560&lines=%F0%9F%87%A7%F0%9F%87%B7+Brasileiro+com+orgulho+%F0%9F%92%9A%F0%9F%92%9B;C%23+%2B+.NET+%E2%80%94+apps+desktop+com+WinForms;TypeScript+%2B+Next.js+%E2%80%94+web+moderna;Python+%2B+YOLO+%E2%80%94+vis%C3%A3o+por+computador;Montagem+de+PCs+%E2%80%94+do+zero+ao+primeiro+boot+%F0%9F%96%A5%EF%B8%8F;Sempre+a+aprender+algo+novo+%F0%9F%A6%8D" alt="typing" />
   </a>
 </p>
 

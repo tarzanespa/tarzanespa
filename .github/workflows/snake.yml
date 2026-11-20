@@ -19,7 +19,7 @@ jobs:
 
       - name: Cobra RGB
         run: |
-          sed -i '0,/<\/style>/s//@property --cs{syntax:"<color>";inherits:true;initial-value:#ff0000}svg{animation:rgb 4s linear infinite}@keyframes rgb{0%,100%{--cs:#ff0000}17%{--cs:#ffff00}33%{--cs:#00ff00}50%{--cs:#00ffff}67%{--cs:#0000ff}83%{--cs:#ff00ff}}<\/style>/' dist/github-contribution-grid-snake.svg
+          sed -i '0,/<\/style>/s//@property --cs{syntax:"\&lt;color\&gt;";inherits:true;initial-value:#ff0000}svg{animation:rgb 4s linear infinite}@keyframes rgb{0%,100%{--cs:#ff0000}17%{--cs:#ffff00}33%{--cs:#00ff00}50%{--cs:#00ffff}67%{--cs:#0000ff}83%{--cs:#ff00ff}}<\/style>/' dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

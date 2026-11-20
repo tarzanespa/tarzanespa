@@ -79,7 +79,7 @@ Monto computadores com cuidado profissional, do início ao primeiro arranque:
 </p>
 
 <p align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/tarzanespa/tarzanespa/output/github-contribution-grid-snake.svg?v=rgb2" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/tarzanespa/tarzanespa/output/snake-rgb.svg" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->

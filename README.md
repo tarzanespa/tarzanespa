@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3d0b0b,50:b31b1b,100:ff4d4d&text=Kayo%20%E2%80%A2%20tarzanespa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=a%20abrir%20caminho%20pela%20selva%20do%20c%C3%B3digo%20%F0%9F%8C%BF&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3d0b0b,50:b31b1b,100:ff4d4d&text=Kayo%20%E2%80%A2%20tarzanespa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=a%20abrir%20caminho%20pela%20selva%20do%20c%C3%B3digo%20%F0%9F%94%A5&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌿 Quem sou
+### 🔥 Quem sou
 
 ```csharp
 public class Kayo : Developer

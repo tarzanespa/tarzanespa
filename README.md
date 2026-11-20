@@ -3,6 +3,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3d0b0b,50:b31b1b,100:ff4d4d&text=Kayo%20%E2%80%A2%20tarzanespa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=a%20abrir%20caminho%20pela%20selva%20do%20c%C3%B3digo%20%F0%9F%94%A5&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
+<h3 align="center">⚔️ <i>"Ami é máquina di guerra"</i> ⚔️</h3>
+
 <p align="center">
   <a href="https://github.com/tarzanespa">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=560&lines=C%23+%2B+.NET+%E2%80%94+apps+desktop+com+WinForms;TypeScript+%2B+Next.js+%E2%80%94+web+moderna;Python+%2B+YOLO+%E2%80%94+vis%C3%A3o+por+computador;Montagem+de+PCs+%E2%80%94+do+zero+ao+primeiro+boot+%F0%9F%96%A5%EF%B8%8F;Sempre+a+aprender+algo+novo+%F0%9F%A6%8D" alt="typing" />

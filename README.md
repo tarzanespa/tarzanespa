@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/tarzanespa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=560&lines=C%23+%2B+.NET+%E2%80%94+apps+desktop+com+WinForms;TypeScript+%2B+Next.js+%E2%80%94+web+moderna;Python+%2B+YOLO+%E2%80%94+vis%C3%A3o+por+computador;Sempre+a+aprender+algo+novo+%F0%9F%A6%8D" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=560&lines=C%23+%2B+.NET+%E2%80%94+apps+desktop+com+WinForms;TypeScript+%2B+Next.js+%E2%80%94+web+moderna;Python+%2B+YOLO+%E2%80%94+vis%C3%A3o+por+computador;Montagem+de+PCs+%E2%80%94+do+zero+ao+primeiro+boot+%F0%9F%96%A5%EF%B8%8F;Sempre+a+aprender+algo+novo+%F0%9F%A6%8D" alt="typing" />
   </a>
 </p>
 
@@ -26,9 +26,30 @@ public class Kayo : Developer
     public string[] Stack    => new[] { "C#", ".NET", "TypeScript", "Next.js", "Python" };
     public string Agora      => "Projeto final de PSI — uma loja de jogos estilo launcher em WinForms";
     public string Explorando => "Visão por computador com YOLO";
-    public string Lema       => "Se não sei, aprendo. Se já sei, construo.";
+    public string Hardware   => "Montagem de PCs a nível profissional";
+    public string Lema       => "Se não sei, aprendo. Se já sei, construo — em código e em hardware.";
 }
 ```
+
+### 🖥️ Para além do código: montagem de PCs
+
+Não programo só o software, também gosto de construir a máquina onde ele corre.
+Monto computadores com cuidado profissional, do início ao primeiro arranque:
+
+```
+[ 1 ] Planeamento   → perfil de uso, orçamento e compatibilidade (socket, chipset, RAM, PSU)
+[ 2 ] Montagem      → CPU, pasta térmica, RAM, armazenamento M.2, GPU, airflow da caixa
+[ 3 ] Cable mgmt    → cablagem organizada e escondida, montagem limpa e bem apresentada
+[ 4 ] Arranque      → BIOS/UEFI, XMP/EXPO, instalação do sistema e drivers
+[ 5 ] Validação     → testes de stress, temperaturas e estabilidade antes da entrega
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CPU-Intel%20%7C%20AMD-b31b1b?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA%20%7C%20Radeon-b31b1b?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cable%20Management-Limpo-ff4d4d?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Testada%20e%20est%C3%A1vel-3d0b0b?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
 
 ### 🛠️ Ferramentas
 
